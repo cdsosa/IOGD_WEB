@@ -1,4 +1,6 @@
 # IOGD_WEB
 
-#### css folder     
+#### css folder   
+```
 <link rel="stylesheet" href="css/animate.css"> <!-- animate.css file for nice animations -->
+```
